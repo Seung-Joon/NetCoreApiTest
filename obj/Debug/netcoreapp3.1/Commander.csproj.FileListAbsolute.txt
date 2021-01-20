@@ -1,0 +1,17 @@
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/bin/Debug/netcoreapp3.1/Commander.deps.json
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/bin/Debug/netcoreapp3.1/Commander.runtimeconfig.json
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/bin/Debug/netcoreapp3.1/Commander.runtimeconfig.dev.json
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/bin/Debug/netcoreapp3.1/Commander.dll
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/bin/Debug/netcoreapp3.1/Commander.pdb
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/Commander.csprojAssemblyReference.cache
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/Commander.MvcApplicationPartsAssemblyInfo.cache
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/Commander.AssemblyInfoInputs.cache
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/Commander.AssemblyInfo.cs
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/Commander.RazorTargetAssemblyInfo.cache
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/staticwebassets/Commander.StaticWebAssets.Manifest.cache
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/staticwebassets/Commander.StaticWebAssets.xml
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/Commander.dll
+/Users/seung-joon/Documents/GitHub/dot net core Api test/Commander/obj/Debug/netcoreapp3.1/Commander.pdb
